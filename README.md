@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsojitra31&label=Profile%20views&color=0e75b6&style=flat" alt="parthsojitra31" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning & Data Science**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning & Full Stack Development**
 
 - 📫 How to reach me **parthsojitra3108@gmail.com**
 
